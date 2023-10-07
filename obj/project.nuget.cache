@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXDpTtadtgS3XTt7U8dJi4WiA6zUbqBOyfslevFtmAKB2/pXbJxbW4900VwwxHT3QOhVOB9Lkr+yv17ewLyf5w==",
+  "success": true,
+  "projectFilePath": "D:\\simplIlearn\\Phase-4\\Practice\\Project2\\Project2\\Project2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\venka\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\venka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\venka\\.nuget\\packages\\moq\\4.20.69\\moq.4.20.69.nupkg.sha512",
+    "C:\\Users\\venka\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\venka\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\venka\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\venka\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
